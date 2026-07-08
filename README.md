@@ -2,6 +2,10 @@
 
 This folder is the root workspace for my machine-learning practice projects.
 
+## License
+
+This workspace is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
+
 ## Current Projects
 
 - [Placement Project - Logistic Regression](placement-prediction-logistic-regression/README.md)
