@@ -9,6 +9,7 @@ This workspace is licensed under the MIT License. See [LICENSE](LICENSE) for the
 ## Current Projects
 
 - [Placement Project - Logistic Regression](placement-prediction-logistic-regression/README.md)
+- [Web Scraping](web-scraping/README.md)
 
 ## Folder Convention
 
